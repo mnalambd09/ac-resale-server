@@ -2,7 +2,7 @@
     {
       "_id": "638615f041d866af84d7f9ff",
       "index": 0,
-      "title": "4c04441d-c646-4956-8c38-c9c5f2696f0d",
+      "title": "Samsung Air Condition",
       "name": true,
       "price": "$1,315.11",
       "picture": "https://i.ibb.co/dcFMYRS/5.png",
@@ -11,7 +11,7 @@
       "originalPrice": 1000,
       "usesTime": "1 years",
       "category": "1",
-      "sellerName": "CINASTER",
+      "sellerName": "Noor Alam",
       "email": "carmellamonroe@cinaster.com",
       "phone": "(827) 563-2251",
       "address": "605 Menahan Street, Rosine, New Hampshire, 3978",
@@ -21,7 +21,7 @@
     {
       "_id": "638615f06ff08b1874322c48",
       "index": 1,
-      "title": "01276ea5-784f-4903-87b7-3c1de1723c90",
+      "title": "Samsung Air Condition",
       "name": false,
       "price": "$1,885.59",
       "picture": "https://i.ibb.co/gzczLdK/6.png",
@@ -40,7 +40,7 @@
     {
       "_id": "638615f0d161d3f47b838887",
       "index": 2,
-      "title": "f7db4b19-b834-48bb-9b7f-7594747503df",
+      "title": "Samsung Air Condition",
       "name": false,
       "price": "$3,470.33",
       "picture": "https://i.ibb.co/k46BS5k/7.png",
@@ -59,7 +59,7 @@
     {
       "_id": "638615f009d29cb18b5db436",
       "index": 3,
-      "title": "ea811148-f0de-4aeb-a008-e16e1c5485c8",
+      "title": "Samsung Air Condition",
       "name": true,
       "price": "$3,498.97",
       "picture": "https://i.ibb.co/G2K92tL/8.png",
@@ -78,7 +78,7 @@
     {
       "_id": "638615f0caa116b79c55a725",
       "index": 4,
-      "title": "cdec94ac-2aca-4d4a-836b-c75eb20b9eb4",
+      "title": "Samsung Air Condition",
       "name": true,
       "price": "$1,562.95",
       "picture": "https://i.ibb.co/dDnTmz7/9.png",
@@ -97,7 +97,7 @@
     {
       "_id": "638615f0a078db5df5d4a8ba",
       "index": 5,
-      "title": "ed8f8ff9-fc6c-4b40-8a1f-114c449c162d",
+      "title": "Samsung Air Condition",
       "name": true,
       "price": "$3,792.62",
       "picture": "https://i.ibb.co/YTTjtjd/10.png",
@@ -116,7 +116,7 @@
     {
       "_id": "638615f0e0f637e6ddd8073d",
       "index": 6,
-      "title": "fd3641ed-64cf-4bc3-87cf-b3b1f3261bf0",
+      "title": "Samsung Air Condition",
       "name": true,
       "price": "$3,840.86",
       "picture": "https://i.ibb.co/XjGBQXX/11.png",
@@ -135,7 +135,7 @@
     {
       "_id": "638615f0b73ba5d21e719bcf",
       "index": 7,
-      "title": "18c07927-5a46-4065-8347-59bc1f57b13a",
+      "title": "LG Air Condition",
       "name": false,
       "price": "$1,175.94",
       "picture": "https://i.ibb.co/NsXk6NX/12.png",
@@ -154,7 +154,7 @@
     {
       "_id": "638615f0e4ef62f64b8242d5",
       "index": 8,
-      "title": "83e42ce0-fc3a-41ba-86ae-4fff9f561ce8",
+      "title": "LG Air Condition",
       "name": true,
       "price": "$1,716.92",
       "picture": "https://i.ibb.co/Bq0m9pS/13.png",
@@ -173,7 +173,7 @@
     {
       "_id": "638615f07564c04b55615971",
       "index": 9,
-      "title": "0fb03fab-bd93-4b09-b6e0-2c6d646d1611",
+      "title": "LG Air Condition",
       "name": false,
       "price": "$3,534.53",
       "picture": "https://i.ibb.co/L0fZSkg/14.png",
@@ -192,7 +192,7 @@
     {
       "_id": "638615f0943945b4a19789c0",
       "index": 10,
-      "title": "5aa85267-dd1d-4aee-8cbf-4b82b53fa3d5",
+      "title": "LG Air Condition",
       "name": false,
       "price": "$2,543.79",
       "picture": "https://i.ibb.co/YN6x3Sx/15.png",
@@ -211,7 +211,7 @@
     {
       "_id": "638615f07150cfd08690e15e",
       "index": 11,
-      "title": "a8e2c704-97de-41f5-941b-503ce475942d",
+      "title": "LG Air Condition",
       "name": false,
       "price": "$3,388.68",
       "picture": "https://i.ibb.co/JQQNB3G/16.png",
@@ -230,7 +230,7 @@
     {
       "_id": "638615f0926cdb1815e8adbd",
       "index": 12,
-      "title": "3b417aa7-b2f3-4bd6-b072-c4cbeeaa718e",
+      "title": "LG Air Condition",
       "name": true,
       "price": "$1,501.57",
       "picture": "https://i.ibb.co/1QH65Sj/17.png",
@@ -249,7 +249,7 @@
     {
       "_id": "638615f0f5c846750e51ada3",
       "index": 13,
-      "title": "5137d98d-d645-4989-928a-f8238def9586",
+      "title": "LG Air Condition",
       "name": false,
       "price": "$1,183.78",
       "picture": "https://i.ibb.co/TbXcB8q/18.png",
@@ -268,7 +268,7 @@
     {
       "_id": "638615f089ce84c2f7e43bd6",
       "index": 14,
-      "title": "ba2f270b-c06c-47af-85fa-0a32d1dd23c7",
+      "title": "Trance Air Condition",
       "name": true,
       "price": "$2,050.02",
       "picture": "https://i.ibb.co/tDpHtHL/19.png",
@@ -287,7 +287,7 @@
     {
       "_id": "638615f0617c9929c02d1a48",
       "index": 15,
-      "title": "97b67e9d-e907-4a59-bc44-dda1d5019019",
+      "title": "Trance Air Condition",
       "name": false,
       "price": "$3,268.96",
       "picture": "https://i.ibb.co/tXkzYht/20.png",
@@ -306,7 +306,7 @@
     {
       "_id": "638615f02651bb14631bc0c6",
       "index": 16,
-      "title": "597b77e1-939a-461e-bb6c-405a0181577a",
+      "title": "5Trance Air Condition",
       "name": true,
       "price": "$1,855.07",
       "picture": "https://i.ibb.co/kSVHBhB/21.png",
@@ -325,7 +325,7 @@
     {
       "_id": "638615f0f4327b37ba9a73e6",
       "index": 17,
-      "title": "57b30773-3b5b-4010-b947-e3522a7e1d5c",
+      "title": "Trance Air Condition",
       "name": false,
       "price": "$2,458.03",
       "picture": "https://i.ibb.co/6JZrbT2/1.png",
@@ -344,7 +344,7 @@
     {
       "_id": "638615f0d248e91fb0522484",
       "index": 18,
-      "title": "26aebaff-52a6-4203-b489-44d4514d9325",
+      "title": "Trance Air Condition",
       "name": false,
       "price": "$2,242.99",
       "picture": "https://i.ibb.co/JzWY4DT/2.png",
@@ -363,7 +363,7 @@
     {
       "_id": "638615f07df2559b9140c152",
       "index": 19,
-      "title": "113b959f-c46c-4166-84fa-fd70252eaaa7",
+      "title": "Trance Air Condition",
       "name": true,
       "price": "$1,571.21",
       "picture": "https://i.ibb.co/YTTjtjd/10.png",
@@ -382,7 +382,7 @@
     {
       "_id": "638615f08992b38d545c7937",
       "index": 20,
-      "title": "04d3458c-a2ce-447c-83f7-2a2bbbfa0c78",
+      "title": "Trance Air Condition",
       "name": true,
       "price": "$3,467.43",
       "picture": "https://i.ibb.co/qr025Th/4.png",
